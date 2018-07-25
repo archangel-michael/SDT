@@ -6,6 +6,8 @@
 |-----------|:-----|
 |mRemoteNG|https://mremoteng.org/download|
 |Putty|https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html|
+|WinSCP|https://winscp.net/eng/download.php|
+
 
 
 ### Editing Tools
@@ -21,9 +23,19 @@
 |Python|https://www.python.org/downloads/|
 |GoLang|https://golang.org/dl/|
 |GitHub|https://desktop.github.com/|
+|SourceTree|https://www.sourcetreeapp.com/|
 
 
 
+---
+# AWS Tools and CLI
+|Description| Link|
+|-----------|-----|
+|Windows AWS CLI|https://s3.amazonaws.com/aws-cli/AWSCLI64.msi|
+|AWS SDK for Python(Boto3)|pip install boto3|
+|-----------|-----|
+
+---
 # Notes, Tips and Tricks
 ## Export and Import putty configs 
 
@@ -55,7 +67,7 @@ Powershell:
 >cmd.exe, require elevated command prompt:
 
 >regedit /i putty-sessions.reg
-regedit /i putty.reg
+>regedit /i putty.reg
 
 PowerShell:
 
