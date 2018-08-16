@@ -1,20 +1,25 @@
 # SDT
 ## Standard Desktop Tools`
 
-### Session Management
+
 |Description| Link|
 |-----------|:-----|
 |mRemoteNG|https://mremoteng.org/download|
 |Putty|https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html|
 |WinSCP|https://winscp.net/eng/download.php|
-
-
-
-### Editing Tools
-|Description| Link|
-|-----------|:-----|
+|PomoDoneApp|https://pomodoneapp.com/|
 |Notepad++|https://notepad-plus-plus.org/download/|
 |VSCode|https://code.visualstudio.com/|
+|Windows AWS CLI|https://s3.amazonaws.com/aws-cli/AWSCLI64.msi|
+|AWS SDK for Python(Boto3)|pip install boto3|
+|Xmind| https://www.xmind.net/download/|
+|Symantec VIP|https://vip.symantec.com/|
+|Draw. io| https://www.draw.io/|
+|VMWare Workstation Pro|[Download V14](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0) - [Key](https://mail.google.com/mail/u/0/#search/vmware/WhctKHScNkCSPrTMxJhwhMrXxWfrsQKbfJQtFcWpZQzQvMPWVwNLPJFCcRsMnTBSCzhkZBV) |
+|Evernote|[Download](https://evernote.com/download/?utm_campaign=engt_web_downloadLink_WEB-45641B_v1&utm_source=evernote&utm_medium=web)|
+|Scrivener|[Download](https://www.literatureandlatte.com/scrivener/download) - [Key](https://mail.google.com/mail/u/0/#search/scrivener/DmwnWrRlQHQSlldJfRPlFVJWcZLglgzWhBCbSFTWQMwGfBzBlQKDpnhsgwTrnLMKMkcvzhkKlctl)|
+
+
 
 
 ### Coding Languages and tools
@@ -26,16 +31,6 @@
 |SourceTree|https://www.sourcetreeapp.com/|
 
 
-
----
-# AWS Tools and CLI
-|Description| Link|
-|-----------|-----|
-|Windows AWS CLI|https://s3.amazonaws.com/aws-cli/AWSCLI64.msi|
-|AWS SDK for Python(Boto3)|pip install boto3|
-|-----------|-----|
-
----
 # Notes, Tips and Tricks
 ## Export and Import putty configs 
 
