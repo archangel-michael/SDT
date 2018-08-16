@@ -4,17 +4,17 @@
 
 |Description| Link|
 |-----------|:-----|
-|mRemoteNG|https://mremoteng.org/download|
-|Putty|https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html|
-|WinSCP|https://winscp.net/eng/download.php|
-|PomoDoneApp|https://pomodoneapp.com/|
-|Notepad++|https://notepad-plus-plus.org/download/|
-|VSCode|https://code.visualstudio.com/|
-|Windows AWS CLI|https://s3.amazonaws.com/aws-cli/AWSCLI64.msi|
+|mRemoteNG|[Download](https://mremoteng.org/download)|
+|Putty|[Download](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)|
+|WinSCP|[Download](https://winscp.net/eng/download.php)|
+|PomoDoneApp|[Download](https://pomodoneapp.com/)|
+|Notepad++|[Download](https://notepad-plus-plus.org/download/)|
+|VSCode|[Download](https://code.visualstudio.com/)|
+|Windows AWS CLI|[Download](https://s3.amazonaws.com/aws-cli/AWSCLI64.msi)|
 |AWS SDK for Python(Boto3)|pip install boto3|
-|Xmind| https://www.xmind.net/download/|
-|Symantec VIP|https://vip.symantec.com/|
-|Draw. io| https://www.draw.io/|
+|Xmind| [Download](https://www.xmind.net/download/)|
+|Symantec VIP|[Download](https://vip.symantec.com/)|
+|Draw. io| [Download](https://www.draw.io/)|
 |VMWare Workstation Pro|[Download V14](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0) - [Key](https://mail.google.com/mail/u/0/#search/vmware/WhctKHScNkCSPrTMxJhwhMrXxWfrsQKbfJQtFcWpZQzQvMPWVwNLPJFCcRsMnTBSCzhkZBV) |
 |Evernote|[Download](https://evernote.com/download/?utm_campaign=engt_web_downloadLink_WEB-45641B_v1&utm_source=evernote&utm_medium=web)|
 |Scrivener|[Download](https://www.literatureandlatte.com/scrivener/download) - [Key](https://mail.google.com/mail/u/0/#search/scrivener/DmwnWrRlQHQSlldJfRPlFVJWcZLglgzWhBCbSFTWQMwGfBzBlQKDpnhsgwTrnLMKMkcvzhkKlctl)|
