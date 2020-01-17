@@ -15,7 +15,7 @@
 |Xmind| [Download](https://www.xmind.net/download/)|
 |Symantec VIP|[Download](https://vip.symantec.com/)|
 |Draw. io| [Download](https://www.draw.io/)|
-|VMWare Workstation Pro|[Download V14](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0) - [Key](https://mail.google.com/mail/u/0/#search/vmware/WhctKHScNkCSPrTMxJhwhMrXxWfrsQKbfJQtFcWpZQzQvMPWVwNLPJFCcRsMnTBSCzhkZBV) |
+|VMWare Workstation Pro|[Download V14](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0) - [Key](https://mail.google.com/mail/u/0/#search/vmware/WhctKHScNkCSPrTMxJhwhMrXxWfrsQKbfJQtFcWpZQzQvMPWVwNLPJFCcRsMnTBSCzhkZBV) - Secondary Key - 2N61P-61H13-08LDN-0F8HM-1T01J|
 |Evernote|[Download](https://evernote.com/download/?utm_campaign=engt_web_downloadLink_WEB-45641B_v1&utm_source=evernote&utm_medium=web)|
 |Scrivener|[Download](https://www.literatureandlatte.com/scrivener/download) - [Key](https://mail.google.com/mail/u/0/#search/scrivener/DmwnWrRlQHQSlldJfRPlFVJWcZLglgzWhBCbSFTWQMwGfBzBlQKDpnhsgwTrnLMKMkcvzhkKlctl)|
 
